@@ -7,7 +7,7 @@
 -  The code is written in python programming language
 -  Modules used are : pygame, random, time
 -  Add the two sound files in the same path as the code
--  If there is any problem contact me on instagram or mail
+-  If there is any problem contact me on instagram or email
 
 ## SOCIAL LINKS :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eternallyshadow)
